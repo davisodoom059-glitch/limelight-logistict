@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Limelight Logistics</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+    header { background: #1abc9c; color: white; padding: 60px 20px; text-align: center; }
+    header h1 { margin: 0; font-size: 2.5em; }
+    header p { font-size: 1.2em; margin-top: 10px; }
+    nav { background: #16a085; text-align: center; padding: 10px; }
+    nav a { margin: 0 15px; color: white; text-decoration: none; font-weight: bold; }
+    section { padding: 40px 20px; max-width: 900px; margin: auto; }
+    section h2 { color: #2c3e50; }
+    ul { list-style: none; padding: 0; }
+    ul li { background: #ecf0f1; margin: 10px 0; padding: 10px; border-radius: 5px; }
+    footer { background: #2c3e50; color: white; text-align: center; padding: 15px; }
+    @media (max-width: 600px) {
+      header h1 { font-size: 2em; }
+      nav a { display: block; margin: 10px 0; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Limelight Logistics</h1>
+    <p>Streamlining supply chain operations with clarity and efficiency</p>
+  </header>
+
+  <nav>
+    <a href="#features">Features</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="features">
+    <h2>Features</h2>
+    <ul>
+      <li>Real-time shipment tracking</li>
+      <li>Route optimization</li>
+      <li>Inventory synchronization</li>
+      <li>Analytics dashboard</li>
+    </ul>
+  </section>
+
+  <section id="about">
+    <h2>About</h2>
+    <p>Limelight Logistics is an open-source platform designed to simplify logistics management. It empowers businesses with tools to track shipments, optimize routes, and gain actionable insights through analytics.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Contribute or reach out on <a href="https://davisodoom059@gmail.com/your-username/limelight-logistics">Email</a>.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2026 Limelight Logistics</p>
+  </footer>
+</body>
+</html>

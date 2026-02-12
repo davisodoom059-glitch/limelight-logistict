@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Limelight Logistics | Fast & Reliable Delivery in Takoradi</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #111;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background: #ff6600;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+section {
+    padding: 40px 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.hero {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 12px 25px;
+    background: #ff6600;
+    color: white;
+    text-decoration: none;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.services {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.service-box {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+footer {
+    background: #111;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.contact-info {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Limelight Logistics</h1>
+    <p>Fast • Reliable • Affordable Delivery Services in Takoradi</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section class="hero">
+    <h2>Your Trusted Delivery Partner in Takoradi</h2>
+    <p>We deliver for food vendors, Instagram sellers, WhatsApp businesses, SMEs, and individuals.</p>
+    <a class="button" href="https://wa.me/233595764550">Book via WhatsApp</a>
+</section>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>
+        Limelight Logistics is a professional delivery company based in Takoradi.
+        We specialize in fast and secure last-mile delivery services for food vendors,
+        Instagram sellers, WhatsApp businesses, SMEs, and individuals.
+    </p>
+    <p>
+        Our mission is to provide reliable, affordable, and same-day delivery services
+        that help businesses grow and keep customers happy.
+    </p>
+</section>
+
+<section id="services">
+    <h2>Our Services</h2>
+    <div class="services">
+        <div class="service-box">
+            <h3>Same-Day Delivery</h3>
+            <p>Fast delivery within Takoradi for urgent orders.</p>
+        </div>
+
+        <div class="service-box">
+            <h3>Food Delivery Support</h3>
+            <p>Reliable delivery for restaurants and food vendors.</p>
+        </div>
+
+        <div class="service-box">
+            <h3>E-commerce Delivery</h3>
+            <p>We deliver for Instagram & WhatsApp sellers.</p>
+        </div>
+
+        <div class="service-box">
+            <h3>SME & Corporate Delivery</h3>
+            <p>Professional delivery solutions for businesses.</p>
+        </div>
+    </div>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <div class="contact-info">
+        <p><strong>Phone:</strong> 0595764550</p>
+        <p><strong>WhatsApp:</strong> 0595764550</p>
+        <p><strong>Email:</strong> Davisodoom059@gmail.com</p>
+        <p><strong>Location:</strong> Takoradi, Ghana</p>
+        <br>
+        <a class="button" href="tel:0595764550">Call Now</a>
+        <a class="button" href="https://wa.me/233595764550">Chat on WhatsApp</a>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Limelight Logistics | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
